@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-irish
 Version:	20131013
-Release:	5
+Release:	6
 Summary:	TeXLive babel-irish package
 Group:		Publishing
 URL:		http://tug.org/texlive
