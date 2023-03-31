@@ -1,6 +1,6 @@
 Name:		texlive-babel-irish
 Version:	30277
-Release:	1
+Release:	2
 Summary:	TeXLive babel-irish package
 Group:		Publishing
 URL:		http://tug.org/texlive
